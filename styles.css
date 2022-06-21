@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: bisque;
+   
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title{
+  color: deeppink;
+  text-align: center;
+}
+
+video{
+    margin-left: 30%;
+    border: 3px solid deeppink;
+    height:40%;
+    width:40%;
+}
+#video-status{
+    text-align: center;
+    /* margin: 50%; */
+}
+
+#startBtn{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-left: 45%;
+    background-color: bisque;
+    color: darkslateblue;
+}
+
+#stopBtn{
+    border-radius: 50%;
+    height:50px;
+    width: 50px;
+   margin-left: 1%;
+   background-color: bisque;
+   color: darkslateblue;
+    
+}
+
+.geocoord{
+   margin-left: 85%;
+}
+
+
+
+#timer-div{
+    margin-left: 48%;
+}
+
+#timer{
+    color: red;
+}
